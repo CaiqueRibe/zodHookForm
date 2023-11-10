@@ -18,7 +18,13 @@ yarn add zod react-hook-form @hookform/resolvers
 
 -  main
 -  App
--
+-  zod
+   -  schema
+   -  FormData
+   -  useForm
+   -  zodResolver
+      -  register
+      -  handleSubmit
 
 ### Libraries
 
