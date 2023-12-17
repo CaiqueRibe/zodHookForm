@@ -12,6 +12,7 @@ In this video we go over react form validation using zod and react hook form.
 
 ### npm Commands
 
+npm i zod react-hook-form @hookform/resolvers
 yarn add zod react-hook-form @hookform/resolvers
 
 ### Components
